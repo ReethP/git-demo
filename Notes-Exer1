@@ -1,0 +1,36 @@
+Local vs remote
+
+Local - "Offline" version
+Remote - in the cloud
+
+git init - initialize
+git status
+touch ___.__ - create a newfile
+
+echo "" >> filename.____
+	- add "" to filename
+
+git add _____.txt
+	- add a file to be committed
+
+git commit -m "added sample.txt"
+	- commit message. MUST be descriptive of what you added in that thingy
+
+git config user.email "rtpaguila@up.edu.ph"
+git config user.name "whatever"
+
+nano ~/.gitconfig
+
+
+
+git branch
+	- see branches
+
+git branch branchname
+	- create new branch
+
+git checkout new-feature
+	- go to a new branch
+ 
+git merge branchname
+	- merge branch to master branch
